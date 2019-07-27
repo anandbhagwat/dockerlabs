@@ -84,7 +84,10 @@ In case you're looking out to conduct workshop or demo, you can refer these belo
 - [Docker + Django + PostgreSQL](./solution/django-postgres/readme.md)
 
 
+
 ## Docker WorkShop for Beginners 
+
+- [Docker + PHP + MYSQL + NGINX -Demo Workshop](https://github.com/anandbhagwat/meetupdockercompose)
 
 ### Getting Started with Docker Image
 
